@@ -8,7 +8,7 @@ int main()
 {
     int value = 0;
     
-    printf("Please, Type A Number To Be Tested Whether Or Nor It Is Prime : ");
+    printf("Please, Type A Number To Be Tested Whether Or Not It Is Prime : ");
     scanf("%d", &value);
 
     if( isPrime ( value ) == true )
